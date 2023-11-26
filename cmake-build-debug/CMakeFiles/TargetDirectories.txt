@@ -1,0 +1,3 @@
+/home/joaovolp/lisha/sdav-tests/inheritance_test/cmake-build-debug/CMakeFiles/inheritance_test.dir
+/home/joaovolp/lisha/sdav-tests/inheritance_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joaovolp/lisha/sdav-tests/inheritance_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
